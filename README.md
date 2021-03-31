@@ -104,7 +104,7 @@ Run `docker-compose up` to spin up the front and backend applications. Log in to
 - Integrations API: to embed the application into apaleo's UI.
 
 ## Created By
-- [Phil Broderick](www.philbroderick.net)
+- [Phil Broderick](https://www.philbroderick.net)
 - [Tayo Olukotun](https://github.com/tysjosh)
 - [Max Shadiy](https://www.artstation.com/enix1art)
 
