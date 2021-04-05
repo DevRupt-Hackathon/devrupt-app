@@ -105,6 +105,7 @@ Run `docker-compose up` to spin up the front and backend applications. Log in to
 
 ## Created By
 - [Phil Broderick](https://www.philbroderick.net)
+- Coalla_Samurai
 - [Tayo Olukotun](https://github.com/tysjosh)
 - [Max Shadiy](https://www.artstation.com/enix1art)
 
